@@ -1,2 +1,2 @@
 # CHE2129 
-[Undergraduate] Advanced Analytical Chemistry, Son Nguyen Manh (Teaching Assistant), 2024
+[Undergraduate Course] Advanced Analytical Chemistry, Son Nguyen Manh (Teaching Assistant), 2024
